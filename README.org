@@ -1,0 +1,3 @@
+#+title: The Crimson Initiative Landing Page
+
+Deployed on vercel with the domain names =thecrimsoninitiative.com= and =thecrimsoninitiative.org=.
