@@ -16,7 +16,7 @@ const Feature = () => {
         <div className="flex flex-col gap-6 py-8">
           <h3 className="!my-0">Join Our Mailing List</h3>
           <p className="font-light leading-[1.4] opacity-70">
-            Scan the QR Code or click &quotGet Started&quote to be linked to our
+            Scan the QR Code or click &#34;Get Started&#34; to be linked to our
             mailing list.
           </p>
           <div className="not-prose flex items-center gap-2">
